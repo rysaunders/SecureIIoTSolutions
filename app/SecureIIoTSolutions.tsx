@@ -1,3 +1,5 @@
+'use client'
+
 import { useState } from 'react'
 import { ArrowRightIcon, LockIcon, TrendingUpIcon, UsersIcon } from "lucide-react"
 
